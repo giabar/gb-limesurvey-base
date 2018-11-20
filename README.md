@@ -1,2 +1,1 @@
-# gb-limesurvey-base
-LimeSurvey Docker base image
+# LimeSurvey Docker base image
